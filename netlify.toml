@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/gbc avanta aas 3d"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/GBC Avanta AAS 3D.html"
+  to = "/"
+  status = 301
